@@ -1,4 +1,4 @@
-I'm **Nicolás Arce** and since 2012 i've been working (mostly self-taught) in **wFront-end Development and Internet**, loving each thing of this journey, learning everyday and searching for constant improvement.
+I'm **Nicolás Arce** and since 2012 i've been working (mostly self-taught) in **Front-end Development and Internet**, loving each thing of this journey, learning everyday and searching for constant improvement.
 
 
 - 💻 I’m currently working in @modyo since April 2022.
